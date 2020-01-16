@@ -1,0 +1,19 @@
+h1 {
+  margin: auto auto;
+  font-size: 10em;
+  text-align: center;
+  border: 30px solid black;
+  background-color: rgba(106, 220, 248, 0.568)
+}
+
+.Introduction {
+  font-size: 4em;
+  text-align: center;
+}
+
+.FoxPic {
+  margin: 0 auto;
+  display: block;
+  direction: right;
+  behavior: slide;
+}
