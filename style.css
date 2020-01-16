@@ -17,3 +17,7 @@ h1 {
   direction: right;
   behavior: slide;
 }
+
+body {
+  background-color: rgba(255, 0, 0, 0.445);
+}
